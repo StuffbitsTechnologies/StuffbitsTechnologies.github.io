@@ -1,7 +1,7 @@
 # Site settings
 title: StuffBits Technologies LLP
 email: kumar.sawant@stuffbits.in
-url: https://jeromelachaud.com/freelancer-theme
+url: https://github.com/StuffbitsTechnologies/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Embedded Product Design, Electronics, Firmware, Hardware Design, PCB Design"
 skills: "Embedded Systems - Product Engineering - Technology Stack"
